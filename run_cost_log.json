@@ -1,0 +1,13 @@
+{
+  "input_shipment_records": 2940,
+  "route_week_groups": 728,
+  "output_rows": 728,
+  "flagged_unexplained": 25,
+  "flagged_justified": 3,
+  "llm_calls": 0,
+  "input_tokens": 0,
+  "output_tokens": 0,
+  "estimated_llm_cost_usd": 0.0,
+  "llm_usage_note": "No LLM/API calls were made; this is deterministic rule-based analysis.",
+  "output_sha256": "a9b0ff4a19586ce406bcd8e3919458eac824ab68dd28eb8c74b98ea06d55ffee"
+}
